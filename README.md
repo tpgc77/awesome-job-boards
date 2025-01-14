@@ -392,6 +392,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Best PM Jobs](https://www.bestpmjobs.com/)
 - [CreativeFuego Jobs](https://creativefuego.com/jobs)
 - [Mecruit Job Board](https://www.mecruit.com/)
+- [Acturhire](https://www.acturhire.com) | Actuarial Jobs
+
 
 ## Entry_Level
 
